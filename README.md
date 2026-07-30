@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarna</h1>
-<h3 align="center">3rd year CSE student | Aspiring Software Developer | Java & Backend Enthusiast</h3>
+<h3 align="center">4th year CSE student | Aspiring Software Developer | Java & Backend Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=swarna556&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
