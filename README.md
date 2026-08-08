@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=swarna556&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🎓 I'm a **3rd Year CSE Student**
+- 🎓 I'm a **4th Year CSE Student**
   
 - 💻 Passionate about **Software Development & Problem Solving**
   
